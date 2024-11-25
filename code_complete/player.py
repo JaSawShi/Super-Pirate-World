@@ -1,5 +1,5 @@
 from settings import * 
-from timer import Timer
+from timer0 import Timer
 from os.path import join
 from math import sin
 
